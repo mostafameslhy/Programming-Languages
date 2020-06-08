@@ -26,8 +26,8 @@ header{
 	font-family: "Roboto", sans-serif;
 }
 body{
-	background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-	url("323-1.jpg");
+	background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+	url("programing.jpg");
 
 }
 .contaniner{
